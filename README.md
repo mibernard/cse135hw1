@@ -1,1 +1,59 @@
 # cse135hw1
+
+Members: Matthew Bernard
+
+private ssh key: -----BEGIN OPENSSH PRIVATE KEY-----
+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
+relHuQ==
+-----END OPENSSH PRIVATE KEY-----
+
+grader ssh key password: graderpass5 (if doesnt work try: farm5)
+
+my .site domain: http://matthewbernard.site/
+
+github deploy details:
+
+user/pass for site login:
+
+Summary of changes to HTML file in DevTools after compression:
+
+Summary of removing 'server' header:
+
+Extra Credit: Analytics configuration:
+
+
