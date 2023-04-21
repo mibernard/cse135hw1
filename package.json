@@ -1,0 +1,22 @@
+{
+  "name": "cse135hw1",
+  "version": "1.0.0",
+  "description": "Members: Matthew Bernard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mibernard/cse135hw1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mibernard/cse135hw1/issues"
+  },
+  "homepage": "https://github.com/mibernard/cse135hw1#readme",
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
