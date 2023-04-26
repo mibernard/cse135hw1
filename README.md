@@ -10,7 +10,7 @@ my .site domain: http://matthewbernard.site/
 
 github deploy details:
 
-user/pass for site login:
+user/pass for site login: user-grader pass-graderpass5
 
 Summary of changes to HTML file in DevTools after compression:
 
