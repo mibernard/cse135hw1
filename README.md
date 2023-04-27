@@ -12,7 +12,7 @@ github deploy details:
 
 user/pass for site login: user-grader pass-graderpass5
 
-Summary of changes to HTML file in DevTools after compression:
+Summary of changes to HTML file in DevTools after compression: 5.2kb ended up being transferred over the network while the resource size was 6.9kb. 1.7kb difference!
 
 Summary of removing 'server' header:
 
