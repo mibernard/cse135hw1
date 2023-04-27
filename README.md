@@ -6,7 +6,7 @@ private ssh key:
 
 grader ssh key password: graderpass5 (if doesnt work try: farm5)
 
-my .site domain: http://matthewbernard.site/
+my .site domain: https://matthewbernard.site/
 
 github deploy details:
 
